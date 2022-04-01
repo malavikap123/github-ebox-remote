@@ -1,8 +1,12 @@
+#add implementation
 def add(a,b)
 	pass
+#sub implementation
 def sub(a,b)
 	pass 
+#mul implementation
 def multiply(a,b)
 	pass 
+#divide implementation
 def divide(a,b)
 	pass 
